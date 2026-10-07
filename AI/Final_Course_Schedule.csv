@@ -1,0 +1,11 @@
+Course_Code,Course_Name,Instructor,Room,Day,Slot
+AI,AI,Dr. Ahmad,R101,2,2
+Database,Database,Dr. Sara,LAB1,1,2
+Networks,Networks,Dr. Omar,LAB1,3,2
+Algorithms,Algorithms,Prof. Mahmoud,R102,4,2
+DataMining,DataMining,Dr. Mona,LAB1,3,3
+OperatingSystems,OperatingSystems,Dr. Yousef,R103,3,2
+SoftwareEngineering,SoftwareEngineering,Dr. Lina,R101,2,3
+MachineLearning,MachineLearning,Dr. Khaled,R101,4,3
+WebProgramming,WebProgramming,Dr. Huda,LAB1,1,3
+ComputerGraphics,ComputerGraphics,Dr. Rania,LAB2,4,3

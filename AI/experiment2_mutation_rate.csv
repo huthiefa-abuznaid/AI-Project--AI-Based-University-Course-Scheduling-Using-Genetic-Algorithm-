@@ -1,0 +1,5 @@
+MutationRate,BestFitness,HardViolations,Runtime
+1%,0.02439,0,6ms
+5%,0.01961,0,5ms
+10%,0.02439,0,7ms
+20%,0.02439,0,5ms

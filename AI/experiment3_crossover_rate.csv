@@ -1,0 +1,4 @@
+CrossoverRate,BestFitness,HardViolations,Runtime
+60%,0.02439,0,5ms
+80%,0.03226,0,6ms
+90%,0.03226,0,5ms
